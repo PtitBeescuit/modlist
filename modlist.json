@@ -1,0 +1,12 @@
+[
+    {
+        "name": "ModName",
+        "version": "1.0",
+        "url": "https://example.com/modname.jar"
+    },
+    {
+        "name": "AnotherMod",
+        "version": "2.3",
+        "url": "https://example.com/anothermod.jar"
+    }
+]
