@@ -1,12 +1,12 @@
 [
     {
-        "name": "ModName",
-        "version": "1.0",
-        "url": "https://example.com/modname.jar"
+        "name": "Just Enough Items",
+        "version": "15.20.0.105",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/jei/download/5846810"
     },
     {
-        "name": "AnotherMod",
-        "version": "2.3",
-        "url": "https://example.com/anothermod.jar"
+        "name": "AppleSkin",
+        "version": "2.5.1",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/appleskin/download/4770828"
     }
 ]
