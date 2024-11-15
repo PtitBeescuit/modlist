@@ -39,12 +39,12 @@
         "version": "NEOFORGE-0.4.2.10",
         "url": "https://www.curseforge.com/minecraft/mc-mods/better-advancements/download/5454909"
     },
-        {
+    {
         "name": "Biomes O' Plenty",
         "version": "19.0.0.91",
         "url": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/download/5773031"
     },
-        {
+    {
         "name": "Bookshelf",
         "version": "20.2.13",
         "url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf/download/5423987"
@@ -252,5 +252,6 @@
     {
         "name": "Waystones",
         "version": "14.1.6",
-        "url": "https://www.curseforge.com/minecraft/mc-mods/waystones/download/5841750"            
+        "url": "https://www.curseforge.com/minecraft/mc-mods/waystones/download/5841750"
+    }
 ]
