@@ -8,5 +8,249 @@
         "name": "AppleSkin",
         "version": "2.5.1",
         "url": "https://www.curseforge.com/minecraft/mc-mods/appleskin/download/4770828"
-    }
+    },
+    {
+        "name": "Large Ore Deposits",
+        "version": "8.1.3.0-build.0820",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits/download/5659686"
+    },
+    {
+        "name": "AE Additions - ExtraCells2 Fork",
+        "version": "5.0.6",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/ae-additions-extra-cells-2-fork/download/5225873"
+    },
+    {
+        "name": "Applied Energistics 2",
+        "version": "15.2.13",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/download/5641282"
+    },
+    {
+        "name": "Architectury API",
+        "version": "9.2.14",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api/download/5137938"
+    },
+    {
+        "name": "Balm",
+        "version": "7.3.9",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/balm/download/5644976"
+    },
+    {
+        "name": "Better Advancements",
+        "version": "NEOFORGE-0.4.2.10",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/better-advancements/download/5454909"
+    },
+        {
+        "name": "Biomes O' Plenty",
+        "version": "19.0.0.91",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/download/5773031"
+    },
+        {
+        "name": "Bookshelf",
+        "version": "20.2.13",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf/download/5423987"
+    },
+    {
+        "name": "CoFH Core",
+        "version": "11.0.2.56",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/cofh-core/download/5374122"
+    },
+    {
+        "name": "Colorful Hearts",
+        "version": "4.3.16",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/colorful-hearts/download/5724977"
+    },
+    {
+        "name": "Crafting Tweaks",
+        "version": "18.2.5",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks/download/5623639"
+    },
+    {
+        "name": "Create",
+        "version": "0.5.1.j",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/create/download/5838779"
+    },
+    {
+        "name": "Create Crafts & Additions",
+        "version": "1.2.4.e",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/createaddition/download/5658602"
+    },
+    {
+        "name": "Curios API",
+        "version": "5.11.0",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/curios/download/5843594"
+    },
+    {
+        "name": "Dynamic Electricity",
+        "version": "1.1.0-1",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/dynamic-electricity/download/4880390"
+    },
+    {
+        "name": "Electrodynamics",
+        "version": "0.9.1-1",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/electrodynamics/download/5823304"
+    },
+    {
+        "name": "Enchantment Descriptions",
+        "version": "17.1.19",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions/download/5855251"
+    },
+    {
+        "name": "Explorify – Dungeons & Structures",
+        "version": "1.6.2",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/explorify/download/5722938"
+    },
+    {
+        "name": "FallingTree",
+        "version": "4.3.4",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/falling-tree/download/5010620"
+    },
+    {
+        "name": "Farmer's Delight",
+        "version": "1.2.5",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight/download/5878214"
+    },
+    {
+        "name": "Fastload",
+        "version": "3.4.0",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/fastload/download/4706149"
+    },
+    {
+        "name": "ForgeEndertech",
+        "version": "11.1.5.0-build.0890",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/forgeendertech/download/5825504"
+    },
+    {
+        "name": "FTB Library (Forge)",
+        "version": "2001.2.5",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge/download/5874882"
+    },
+    {
+        "name": "FTB Ultimine (Forge)",
+        "version": "2001.1.5",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge/download/5363345"
+    },
+    {
+        "name": "GeckoLib",
+        "version": "4.4.9",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/geckolib/download/5675221"
+    },
+    {
+        "name": "GlitchCore",
+        "version": "0.0.1.1",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/glitchcore/download/5787839"
+    },
+    {
+        "name": "GraveStone Mod",
+        "version": "1.0.24",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/gravestone-mod/download/5794082"
+    },
+    {
+        "name": "Inventory Sorter",
+        "version": "23.0.1",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/inventory-sorter/download/4655091"
+    },
+    {
+        "name": "Iron Chests",
+        "version": "14.4.4",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/iron-chests/download/4614852"
+    },
+    {
+        "name": "Iron Furnaces",
+        "version": "4.1.6",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/iron-furnaces/download/5159498"
+    },
+    {
+        "name": "Jade",
+        "version": "11.12.2",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/jade/download/5876199"
+    },
+    {
+        "name": "JourneyMap",
+        "version": "5.10.3",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/journeymap/download/5789363"
+    },
+    {
+        "name": "Kotlin for Forge",
+        "version": "4.11.0",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge/download/5402061"
+    },
+    {
+        "name": "Mekanism",
+        "version": "10.4.9.61",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/mekanism/download/5662583"
+    },
+    {
+        "name": "Mouse Tweaks",
+        "version": "2.25.1",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks/download/5338457"
+    },
+    {
+        "name": "Naturalist",
+        "version": "4.0.3",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/naturalist/download/4847009"
+    },
+    {
+        "name": "Placebo",
+        "version": "8.6.2",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/placebo/download/5414631"
+    },
+    {
+        "name": "Refined Storage",
+        "version": "1.12.4",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/4844585"
+    },
+    {
+        "name": "Spice of Life: Carrot Edition",
+        "version": "1.15.1",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition/download/4888575"
+    },
+    {
+        "name": "Sophisticated Backpacks",
+        "version": "3.20.12.1126",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/download/5881224"
+    },
+    {
+        "name": "Sophisticated Core",
+        "version": "0.7.2.756",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core/download/5899399"
+    },
+    {
+        "name": "Storage Drawers",
+        "version": "12.9.10",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/storage-drawers/download/5870703"
+    },
+    {
+        "name": "TerraBlender (Forge)",
+        "version": "3.0.1.7",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/terrablender/download/5378180"
+    },
+    {
+        "name": "Thermal Expansion",
+        "version": "11.0.1.29",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/thermal-expansion/download/5372749"
+    },
+    {
+        "name": "Thermal Foundation",
+        "version": "11.0.6.70",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/thermal-foundation/download/5443583"
+    },
+    {
+        "name": "The Twilight Forest",
+        "version": "4.3.2508",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/download/5468648"
+    },
+    {
+        "name": "Valhelsia Core",
+        "version": "1.1.2",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/valhelsia-core/download/5189548"
+    },
+    {
+        "name": "Valhelsia Structures",
+        "version": "1.1.2",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures/download/5195707"
+    },
+    {
+        "name": "Waystones",
+        "version": "14.1.6",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/waystones/download/5841750"            
 ]
