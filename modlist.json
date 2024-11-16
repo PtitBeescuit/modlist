@@ -323,5 +323,10 @@
         "name": "Moonlight",
         "version": "2.13.25",
         "url": "https://www.curseforge.com/api/v1/mods/499980/files/5890838/download"
+    },
+    {
+        "name": "Amendments",
+        "version": "1.2.12",
+        "url": "https://www.curseforge.com/api/v1/mods/896746/files/5820238/download"
     }
 ]
