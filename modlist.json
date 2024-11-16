@@ -303,5 +303,25 @@
         "name": "Trash Cans",
         "version": "1.0.18b",
         "url": "https://www.curseforge.com/api/v1/mods/394535/files/4712179/download"
+    },
+    {
+        "name": "Citadel",
+        "version": "2.6.0",
+        "url": "https://www.curseforge.com/api/v1/mods/331936/files/5633260/download"
+    },
+    {
+        "name": "SuperMartijn642's Core Lib",
+        "version": "1.1.17a",
+        "url": "https://www.curseforge.com/api/v1/mods/454372/files/5668859/download"
+    },
+    {
+        "name": "SuperMartijn642's Config Lib",
+        "version": "1.1.8",
+        "url": "https://www.curseforge.com/api/v1/mods/438332/files/4715408/download"
+    },
+    {
+        "name": "Citadel",
+        "version": "2.13.25",
+        "url": "https://www.curseforge.com/api/v1/mods/499980/files/5890838/download"
     }
 ]
