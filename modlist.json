@@ -258,5 +258,50 @@
         "name": "DisenchantingForge",
         "version": "2.2.4",
         "url": "https://www.curseforge.com/api/v1/mods/358578/files/4605985/download"
+    },
+    {
+        "name": "NaturesCompass",
+        "version": "1.11.2",
+        "url": "https://www.curseforge.com/api/v1/mods/252848/files/4712189/download"
+    },
+    {
+        "name": "Supplementaries",
+        "version": "3.1.7",
+        "url": "https://www.curseforge.com/api/v1/mods/412082/files/5908099/download"
+    },
+    {
+        "name": "Just Enough Resources (JER)",
+        "version": "1.4.0.247",
+        "url": "https://www.curseforge.com/api/v1/mods/240630/files/5057220/download"
+    },
+    {
+        "name": "Alex's Mobs",
+        "version": "1.22.9",
+        "url": "https://www.curseforge.com/api/v1/mods/426558/files/5698791/download"
+    },
+    {
+        "name": "OpenBlocks Elevator",
+        "version": "1.9",
+        "url": "https://www.curseforge.com/api/v1/mods/250832/files/4837768/download"
+    },
+    {
+        "name": "Towns and Towers",
+        "version": "1.12",
+        "url": "https://www.curseforge.com/api/v1/mods/626761/files/4923828/download"
+    },
+    {
+        "name": "Cristel Lib",
+        "version": "1.1.6",
+        "url": "https://www.curseforge.com/api/v1/mods/856996/files/5869180/download"
+    },
+    {
+        "name": "Explorer's Compass",
+        "version": "1.3.3",
+        "url": "https://www.curseforge.com/api/v1/mods/491794/files/4712194/download"
+    },
+    {
+        "name": "Trash Cans",
+        "version": "1.0.18b",
+        "url": "https://www.curseforge.com/api/v1/mods/394535/files/4712179/download"
     }
 ]
