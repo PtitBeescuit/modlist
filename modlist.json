@@ -333,5 +333,10 @@
         "name": "Clumps",
         "version": "12.0.0.4",
         "url": "https://www.curseforge.com/api/v1/mods/256717/files/5278538/download"
+    },
+    {
+        "name": "Mekanism Generators",
+        "version": "10.4.9.61",
+        "url": "https://www.curseforge.com/api/v1/mods/268566/files/5662587/download"
     }
 ]
