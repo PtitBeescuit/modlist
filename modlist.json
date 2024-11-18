@@ -338,5 +338,10 @@
         "name": "Mekanism Generators",
         "version": "10.4.9.61",
         "url": "https://www.curseforge.com/api/v1/mods/268566/files/5662587/download"
+    },
+    {
+        "name": "Applied Energistics 2 Wireless Terminals",
+        "version": "15.2.3",
+        "url": "https://www.curseforge.com/api/v1/mods/459929/files/5217955/download"
     }
 ]
