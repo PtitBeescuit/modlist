@@ -5,3 +5,5 @@
 Personnal project for Modpack with friends
 
 Auto update mods from personnal choice to mods folder on default minecraft appdata directory
+
+Maybe more update for future release of minecraft and mods
