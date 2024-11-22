@@ -443,5 +443,10 @@
         "name": "JEI Integration",
         "version": "10.0.0",
         "url": "https://www.curseforge.com/api/v1/mods/265917/files/4999754/download"
+    },
+    {
+        "name": "Ender IO",
+        "version": "6.2.2",
+        "url": "https://www.curseforge.com/api/v1/mods/64578/files/5858176/download"
     }
 ]
