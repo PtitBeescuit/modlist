@@ -448,5 +448,15 @@
         "name": "Ender IO",
         "version": "6.2.2",
         "url": "https://www.curseforge.com/api/v1/mods/64578/files/5858176/download"
+    },
+    {
+        "name": "KubeJS",
+        "version": "2001.6.5-build.16",
+        "url": "https://www.curseforge.com/api/v1/mods/238086/files/5853326/download"
+    },
+    {
+        "name": "Rhino",
+        "version": "2001.2.3-build.6",
+        "url": "https://www.curseforge.com/api/v1/mods/416294/files/5655836/download"
     }
 ]
