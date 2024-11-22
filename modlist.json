@@ -413,5 +413,35 @@
         "name": "Cumulus",
         "version": "1.0.1",
         "url": "https://www.curseforge.com/api/v1/mods/915473/files/5748437/download"
+    },
+    {
+        "name": "Immersive Engineering",
+        "version": "10.1.0-171",
+        "url": "https://www.curseforge.com/api/v1/mods/231951/files/5224387/download"
+    },
+    {
+        "name": "Cooking for Blockheads",
+        "version": "16.0.9",
+        "url": "https://www.curseforge.com/api/v1/mods/231484/files/5735271/download"
+    },
+    {
+        "name": "Productive Bees",
+        "version": "12.6.0",
+        "url": "https://www.curseforge.com/api/v1/mods/377897/files/5566102/download"
+    },
+    {
+        "name": "The Bumblezone",
+        "version": "7.5.5",
+        "url": "https://www.curseforge.com/api/v1/mods/362479/files/5895583/download"
+    },
+    {
+        "name": "Resourceful Lib",
+        "version": "2.1.29",
+        "url": "https://www.curseforge.com/api/v1/mods/570073/files/5659871/download"
+    },
+    {
+        "name": "JEI Integration",
+        "version": "10.0.0",
+        "url": "https://www.curseforge.com/api/v1/mods/265917/files/4999754/download"
     }
 ]
