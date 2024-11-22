@@ -363,5 +363,55 @@
         "name": "Mekanism Tools",
         "version": "10.4.10.66",
         "url": "https://www.curseforge.com/api/v1/mods/268567/files/5919386/download"
+    },
+    {
+        "name": "Mystical Agriculture",
+        "version": "7.0.8",
+        "url": "https://www.curseforge.com/api/v1/mods/246640/files/4990344/download"
+    },
+    {
+        "name": "Mystical Agradditions",
+        "version": "7.0.6",
+        "url": "https://www.curseforge.com/api/v1/mods/246640/files/5777070/download"
+    },
+    {
+        "name": "Mystical Agriculture Tiered Crystals",
+        "version": "1.6.0",
+        "url": "https://www.curseforge.com/api/v1/mods/299045/files/4637375/download"
+    },
+    {
+        "name": "Valhelsia Furniture",
+        "version": "1.1.3",
+        "url": "https://www.curseforge.com/api/v1/mods/694349/files/5189602/download"
+    },
+    {
+        "name": "Mystical Customization",
+        "version": "5.0.2",
+        "url": "https://www.curseforge.com/api/v1/mods/280441/files/5581873/download"
+    },
+    {
+        "name": "Cucumber Library",
+        "version": "7.0.13",
+        "url": "https://www.curseforge.com/api/v1/mods/272335/files/5857370/download"
+    },
+    {
+        "name": "Patchouli",
+        "version": "84",
+        "url": "https://www.curseforge.com/api/v1/mods/306770/files/4966125/download"
+    },
+    {
+        "name": "Botania",
+        "version": "446",
+        "url": "https://www.curseforge.com/api/v1/mods/225643/files/5594997/download"
+    }
+    {
+        "name": "The Aether",
+        "version": "1.5.1",
+        "url": "https://www.curseforge.com/api/v1/mods/255308/files/5889509/download"
+    }
+    {
+        "name": "Cumulus",
+        "version": "1.0.1",
+        "url": "https://www.curseforge.com/api/v1/mods/915473/files/5748437/download"
     }
 ]
