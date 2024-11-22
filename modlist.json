@@ -121,7 +121,7 @@
     },
     {
         "name": "FTB Library (Forge)",
-        "version": "2001.2.5",
+        "version": "2001.2.6",
         "url": "https://www.curseforge.com/api/v1/mods/404465/files/5874882/download"
     },
     {
@@ -176,8 +176,8 @@
     },
     {
         "name": "Mekanism",
-        "version": "10.4.9.61",
-        "url": "https://www.curseforge.com/api/v1/mods/268560/files/5662583/download"
+        "version": "10.4.10.66",
+        "url": "https://www.curseforge.com/api/v1/mods/268560/files/5919382/download"
     },
     {
         "name": "Mouse Tweaks",
@@ -206,18 +206,18 @@
     },
     {
         "name": "Sophisticated Backpacks",
-        "version": "3.20.12.1126",
-        "url": "https://www.curseforge.com/api/v1/mods/422301/files/5881224/download"
+        "version": "3.20.17.1150",
+        "url": "https://www.curseforge.com/api/v1/mods/422301/files/5927505/download"
     },
     {
         "name": "Sophisticated Core",
-        "version": "0.7.2.756",
-        "url": "https://www.curseforge.com/api/v1/mods/618298/files/5899399/download"
+        "version": "0.7.9.791",
+        "url": "https://www.curseforge.com/api/v1/mods/618298/files/5927624/download"
     },
     {
         "name": "Storage Drawers",
-        "version": "12.9.11",
-        "url": "https://www.curseforge.com/api/v1/mods/223852/files/5889916/download"
+        "version": "12.9.12",
+        "url": "https://www.curseforge.com/api/v1/mods/223852/files/5915486/download"
     },
     {
         "name": "TerraBlender (Forge)",
@@ -266,8 +266,8 @@
     },
     {
         "name": "Supplementaries",
-        "version": "3.1.7",
-        "url": "https://www.curseforge.com/api/v1/mods/412082/files/5908099/download"
+        "version": "3.1.8",
+        "url": "https://www.curseforge.com/api/v1/mods/412082/files/5922593/download"
     },
     {
         "name": "Just Enough Resources (JER)",
@@ -321,8 +321,8 @@
     },
     {
         "name": "Moonlight",
-        "version": "2.13.25",
-        "url": "https://www.curseforge.com/api/v1/mods/499980/files/5890838/download"
+        "version": "2.13.27",
+        "url": "https://www.curseforge.com/api/v1/mods/499980/files/5928520/download"
     },
     {
         "name": "Amendments",
@@ -336,8 +336,8 @@
     },
     {
         "name": "Mekanism Generators",
-        "version": "10.4.9.61",
-        "url": "https://www.curseforge.com/api/v1/mods/268566/files/5662587/download"
+        "version": "10.4.10.66",
+        "url": "https://www.curseforge.com/api/v1/mods/268566/files/5919385/download"
     },
     {
         "name": "Applied Energistics 2 Wireless Terminals",
@@ -358,5 +358,10 @@
         "name": "Chunk Loaders",
         "version": "1.2.8a",
         "url": "https://www.curseforge.com/api/v1/mods/402924/files/4850872/download"
+    },
+    {
+        "name": "Mekanism Tools",
+        "version": "10.4.10.66",
+        "url": "https://www.curseforge.com/api/v1/mods/268567/files/5919386/download"
     }
 ]
