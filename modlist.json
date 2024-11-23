@@ -458,5 +458,15 @@
         "name": "Rhino",
         "version": "2001.2.3-build.6",
         "url": "https://www.curseforge.com/api/v1/mods/416294/files/5655836/download"
+    },
+    {
+        "name": "Bonsai Trees 3",
+        "version": "3.3.2",
+        "url": "https://www.curseforge.com/api/v1/mods/278993/files/5704378/download"
+    },
+    {
+        "name": "Libnonymous",
+        "version": "2.3.1",
+        "url": "https://www.curseforge.com/api/v1/mods/357557/files/5668436/download"
     }
 ]
