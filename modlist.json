@@ -468,5 +468,25 @@
         "name": "Libnonymous",
         "version": "2.3.1",
         "url": "https://www.curseforge.com/api/v1/mods/357557/files/5668436/download"
+    },
+    {
+        "name": "AEInfinityBooster",
+        "version": "1.0.0+21",
+        "url": "https://www.curseforge.com/api/v1/mods/559313/files/4869749/download"
+    },
+    {
+        "name": "Solar Flux Reborn",
+        "version": "20.1.6",
+        "url": "https://www.curseforge.com/api/v1/mods/246974/files/5303143/download"
+    },
+    {
+        "name": "Scannable",
+        "version": "1.7.12",
+        "url": "https://www.curseforge.com/api/v1/mods/266784/files/4763070/download"
+    },
+    {
+        "name": "HammerLib",
+        "version": "20.1.33",
+        "url": "https://www.curseforge.com/api/v1/mods/247401/files/5739142/download"
     }
 ]
