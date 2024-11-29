@@ -488,5 +488,10 @@
         "name": "HammerLib",
         "version": "20.1.33",
         "url": "https://www.curseforge.com/api/v1/mods/247401/files/5739142/download"
+    },
+    {
+        "name": "Powah!",
+        "version": "5.0.7",
+        "url": "https://www.curseforge.com/api/v1/mods/633483/files/5604170/download"
     }
 ]
