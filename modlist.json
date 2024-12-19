@@ -503,5 +503,20 @@
         "name": "Iron Jetpacks",
         "version": "7.0.7",
         "url": "https://www.curseforge.com/api/v1/mods/284497/files/5857430/download"
+    },
+    {
+        "name": "Integrated Dynamics",
+        "version": "1.24.1",
+        "url": "https://www.curseforge.com/api/v1/mods/236307/files/5998216/download"
+    },
+    {
+        "name": "Common Capabilities",
+        "version": "2.9.4",
+        "url": "https://www.curseforge.com/api/v1/mods/247007/files/5980078/download"
+    },
+    {
+        "name": "Cyclops Core",
+        "version": "1.19.5",
+        "url": "https://www.curseforge.com/api/v1/mods/232758/files/5583765/download"
     }
 ]
